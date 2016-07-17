@@ -2,7 +2,23 @@ element.style {
 	font-family: sans-serif;
 }
 
-#work out what this does
-svg.site-logo (
-    width="243" height="79" viewBox="0 0 243 79"
-)
+.site-logo {
+    width="243" height="79"
+}
+
+.site-header {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    background: #141213;
+    height: 100px;
+    padding-top: 25px;
+}
+
+.site-menu {
+    bac
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
